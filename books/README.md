@@ -7,12 +7,14 @@ Database columns needed (whether split into other tables or not):
 * Duration
 ## Core Type
 Column name: core_type
+
 Values: 
 * CORE 
 * CORE-Away 
 * Non-CORE
 ## Subjects
 Column name: subjects
+
 Values:
 * Math
 * Science
